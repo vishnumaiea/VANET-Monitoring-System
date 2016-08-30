@@ -9,6 +9,8 @@ A GUI program created on Processing for interfacing a VANET prototyping project 
   VANET System Monitor
 
   Copyright (c) 2016 Vishnu M Aiea
+  
+  License : GNU GPL v3
 
   E-Mail : vishnumaiea@gmail.com
 
