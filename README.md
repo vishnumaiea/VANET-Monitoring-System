@@ -10,6 +10,8 @@ A GUI program created on Processing for interfacing a VANET prototyping project 
 
   Copyright (c) 2016 Vishnu M Aiea
   
+  Author : Vishnu M Aiea aka AYGENT543
+  
   License : GNU GPL v3
 
   E-Mail : vishnumaiea@gmail.com
